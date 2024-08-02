@@ -8,20 +8,20 @@ The Hardware:
 - 1 x HP EliteDesk G800 G2 Mini
 
 The OS's:
-Raspberry Pi OS
-VMware ESXi
-Ubuntu Server 20.04
+- Raspberry Pi OS
+- VMware ESXi
+- Ubuntu Server 20.04
 
 The Software:
-OpenMediaVault
-Docker
-PiVPN
-PiHole
-UpTimeKuma
-NetAlertX
-Portainer
-HomeAssistant
-JellyFin
-Grafana
-Prometheus
-PhotoPrism
+- OpenMediaVault
+- Docker
+- PiVPN
+- PiHole
+- UpTimeKuma
+- NetAlertX
+- Portainer
+- HomeAssistant
+- JellyFin
+- Grafana
+- Prometheus
+- PhotoPrism
