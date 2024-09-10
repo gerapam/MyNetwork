@@ -17,7 +17,7 @@ The Software:
 - Docker
 - PiVPN
 - PiHole
-- UpTimeKuma
+- UpTime Kuma
 - NetAlertX
 - Portainer
 - HomeAssistant
