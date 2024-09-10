@@ -1,4 +1,4 @@
-Hello all, I created this page to share my knowledge related with computers and networks. This is a description of my home network, the hardware and software I use and how it was setup.
+Hello all, I created this page to share my knowledge related with computers and networks. Here you will find a description of my home network, the hardware and software I use and how it was setup.
 I will put links to my blog page (https://qualquercoisa.eu/) related with these topics. In my blog I will describ how I configured everything. Hope you enjoy, and fell free to give me your feedback.
 
 The Hardware:
